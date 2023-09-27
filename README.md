@@ -1,52 +1,49 @@
 > Open this page at https://github.com/FruityLoopes/LanguageApp.git
 
 Simple overview of use/purpose.
+Ice Task 9 
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Uhm being able to change language in the app :)
 
 ## Getting Started
-
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Dependant on some of these ;)
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+Honestly don't even bother hueuhue
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+You won't cause you have it installed
 ```
-code blocks for commands
+lol
 ```
 
 ## Help
 
 Any advise for common problems or issues.
 ```
-command to run if program contains helper info
+help for you?? Ha you got jokes
 ```
 
 ## Authors
 
-Contributors names and contact info
+Me, Myself and I
 
 ## Version History
 
 * 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
+    * Yes
 * 0.1
     * Initial Release
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
 
 
