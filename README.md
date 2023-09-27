@@ -1,6 +1,5 @@
 > Open this page at https://github.com/FruityLoopes/LanguageApp.git
 
-Simple overview of use/purpose.
 Ice Task 9 
 
 ## Description
