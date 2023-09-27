@@ -4,4 +4,6 @@
     <string name="Text1">これは氷のタスク9です</string>
     <string name="Text2">はい、まったく</string>
     <string name="Text3">良い</string>
+    <string name="Settings">設定</string>
+    <string name="Return">戻る</string>
 </resources>

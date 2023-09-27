@@ -4,4 +4,6 @@
     <string name="Text1">这是冰任务9</string>
     <string name="Text2">是的，完全是的</string>
     <string name="Text3">好的</string>
+    <string name="Settings">设置</string>
+    <string name="Return">返回</string>
 </resources>

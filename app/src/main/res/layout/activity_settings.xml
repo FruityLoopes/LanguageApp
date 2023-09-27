@@ -17,7 +17,7 @@
         android:id="@+id/btnReturn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Return"
+        android:text="@string/Return"
         android:gravity="center"/>\
 
 
